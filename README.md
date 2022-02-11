@@ -18,7 +18,7 @@ Check strenght of password:
 
 Check strenght of password 
 - the case of finding a password in known passwords
-- 
+ 
 ![App Screenshot](https://user-images.githubusercontent.com/72970978/153593332-c9b5ece5-eb4d-43ce-ab33-6a6be547d57c.png)
 
 Save password in MySQL:
